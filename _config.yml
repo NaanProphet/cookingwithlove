@@ -9,7 +9,7 @@
 title: Cooking With Love
 email: info@withlove.cooking
 description: >
-  A collection of family recipes, primarily from South India.
+  A collection of family recipes primarily from South India.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
