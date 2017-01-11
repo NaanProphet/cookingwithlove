@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<section class="index" itemscope itemtype="http://schema.org/Blog">
+    <section class="posts clear">
+        <div class="section-title"><span>All Recipes</span></div>
+        {% for post in paginator.posts %}
+        <article class="post" role="article" itemprop="blogPosts" itemscope itemtype="http://schema.org/BlogPosting">
+            <div class="post-meta clear">
+                <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%-d %b, %Y" }}</time> /
+                {% if post.category %}
+                <span class="category">
+                        {% for category in post.category %}
+                            <a href="{{site.baseurl}}/{{site.category_dir}}/{{category}}/">{{ category }}</a>
+                        {% endfor %}
+                    </span>
+                {% endif %}
+            </div>
+            <h2 class="post-title" itemprop="name headline"><a itemprop="url" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a></h2>
+            <div class="post-content">
+                {{ post.content }}
+            </div>
+        </article>
+        {% endfor %}
+    </section>
+
+    {% if paginator.total_pages > 1 %}
+    <div class="pagination clear" role="navigation" aria-label="pagination">
+        {% if paginator.previous_page %}
+            <a href="{{ paginator.previous_page_path }}" class="previous">&larr; Previous</a>
+        {% endif %}
+
+        <span class="page_number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+
+        {% if paginator.next_page %}
+            <a href="{{ paginator.next_page_path }}" class="next">Next &rarr;</a>
+        {% endif %}
+    </div>
+    {% endif %}
+</section>
