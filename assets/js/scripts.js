@@ -50,7 +50,7 @@ jQuery(document).ready( function() {
 
 	/* Category detector. */
 		// Without "main".
-		var availableCategories = [ "asian", "bbq", "beer", "breakfast", "cocktail", "coffee", "dessert", "drink", "fruit", "junk", "meat", "pasta", "pizza", "salad", "seafood", "snack", "soup", "tea", "vegetarian", "vegan" ];
+		var availableCategories = [ "raita", "pickle", "daal", "stir-fry", "dessert" ];
 
 		function categoryDetector() {
 			jQuery('.index .posts .post').each( function() {
