@@ -1,0 +1,10 @@
+@font-face {font-family: "Zapfino"; src:"Zapfino.ttf"; }
+blockquote { font-family: "Zapfino"; margin:0em; padding-bottom:2em; text-align: center;}
+dt { font:Lucida Grande; font-size:medium; font-weight:bold; float:left; }
+ul { list-style-type:circle; }
+img {
+	float:center;
+	margin:10px; 
+	width:240px; 
+	height:180px; /* for 4:3 input, like 640x480 */
+}

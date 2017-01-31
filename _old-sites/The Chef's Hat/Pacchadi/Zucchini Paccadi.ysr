@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>attribution</key>
+		<string></string>
+		<key>cookingTime</key>
+		<string></string>
+		<key>cuisine</key>
+		<string></string>
+		<key>dateCreated</key>
+		<date>2009-07-04T18:15:43Z</date>
+		<key>dateUpdated</key>
+		<date>2011-02-20T16:22:26Z</date>
+		<key>difficulty</key>
+		<integer>0</integer>
+		<key>directions</key>
+		<string>coarse 
+
+red chilis, aavalu 1, jeela 1/2; nooni then remove
+
+zuchinni fry in oil; cook w/ lid 5 mins -- let cool
+
+then mixy; popu first; zuchinni 1 chamca 
+
+2nd time uppu pasupu, 1 tsp tamcon
+
+cottimra garnish</string>
+		<key>hasBeenPrepared</key>
+		<integer>0</integer>
+		<key>inactivePrepTime</key>
+		<string></string>
+		<key>ingredientsArray</key>
+		<string>(
+)</string>
+		<key>isFlagged</key>
+		<integer>0</integer>
+		<key>isMarkedAsNew</key>
+		<integer>0</integer>
+		<key>keywords</key>
+		<string>Pacchadi/"Sauce?",Indian</string>
+		<key>modelVersion</key>
+		<string>2.3</string>
+		<key>name</key>
+		<string>Zucchini Paccadi</string>
+		<key>prepTime</key>
+		<string></string>
+		<key>rating</key>
+		<integer>0</integer>
+		<key>recipeDescription</key>
+		<string></string>
+		<key>yield</key>
+		<string></string>
+	</dict>
+</array>
+</plist>

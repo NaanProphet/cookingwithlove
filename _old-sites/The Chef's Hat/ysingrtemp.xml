@@ -1,0 +1,27 @@
+        {
+        name = \"Raw (pacchi) Mangos (mavudkai) i.e. the green ones\";
+        quantity = 2;
+        randomNumber = 485;
+    },
+        {
+        measurement = cup;
+        name = Pesarapappu;
+        quantity = 1;
+        randomNumber = 487;
+    },
+        {
+        name = \"Erra merapkai (dried red chilis)\";
+        randomNumber = 925;
+    },
+        {
+        name = \"Ingua (asafoidetta)\";
+        randomNumber = 195;
+    },
+        {
+        name = \"Aavalu (mustard seeds)\";
+        randomNumber = 131;
+    },
+        {
+        name = \"Pasupu (turmeric)\";
+        randomNumber = 172;
+    }
