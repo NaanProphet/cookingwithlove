@@ -1,13 +1,13 @@
 ---
-layout: post
-date: 2016-09-15 08:45
-title: "Bhel Bean Salad"
-author: Mom Bhamidipati
-category:
+title: Bhel Bean Salad
+date: 2016-09-15 08:45:00 Z
+categories:
 - snacks
 tags:
 - soaker
 - fusion
+layout: post
+author: Mom Bhamidipati
 ---
 
 <img src="png/83967bb0d68e3e0ca956c528c04b6666.png" />

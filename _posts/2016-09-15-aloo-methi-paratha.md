@@ -1,11 +1,10 @@
 ---
-layout: post
-date: 2016-09-15 08:45
-title: "Aloo Methi Paratha"
-author: Mom Bhamidipati
-category:
+title: Aloo Methi Paratha
+date: 2016-09-15 08:45:00 Z
+categories:
 - roti
-tags:
+layout: post
+author: Mom Bhamidipati
 ---
 
 <img src="png/bd30007f92eef32b42a769f9cc5fb72e.png" />

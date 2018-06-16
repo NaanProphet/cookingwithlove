@@ -1,13 +1,13 @@
 ---
-layout: post
-date: 2016-09-15 08:45
 title: "(Mango) & Moong Dal Pacchadi"
-author: Mom Bhamidipati
-category:
+date: 2016-09-15 08:45:00 Z
+categories:
 - chutney
 tags:
 - tangy
 - soaker
+layout: post
+author: Mom Bhamidipati
 ---
 
 <img src="png/bd30007f92eef32b42a769f9cc5fb72e.png" />

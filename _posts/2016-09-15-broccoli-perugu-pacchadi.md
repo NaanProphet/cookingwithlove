@@ -1,13 +1,13 @@
 ---
-layout: post
-date: 2016-09-15 08:45
-title: "Broccoli Perugu Pacchadi"
-author: Mom Bhamidipati
-category:
+title: Broccoli Perugu Pacchadi
+date: 2016-09-15 08:45:00 Z
+categories:
 - raita
 tags:
 - tangy
 - soaker
+layout: post
+author: Mom Bhamidipati
 ---
 
 <img src="png/0c20b2f3b11ee671e6312284940237c3.png" />

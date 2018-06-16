@@ -1,12 +1,10 @@
 ---
-layout: post
-date: 2016-09-15 08:45
-title: "Zucchini Pacchadi"
-author: Mom Bhamidipati
-category:
+title: Zucchini Pacchadi
+date: 2016-09-15 08:45:00 Z
+categories:
 - chutney
-tags:
-
+layout: post
+author: Mom Bhamidipati
 ---
 
 <img src="png/7176e57f945343c2585e3a760143d025.png" />

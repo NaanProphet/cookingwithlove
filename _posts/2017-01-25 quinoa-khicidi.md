@@ -1,12 +1,11 @@
 ---
+title: Quinoa Khicidi
+date: 2016-09-15 08:45:00 Z
 layout: post
-date: 2016-09-15 08:45
-title: "Quinoa Khicidi"
 author: Mom Bhamidipati
 category:
 - fusion
-tags:
-
+tags: 
 ---
 
 <img src="png/.png" />

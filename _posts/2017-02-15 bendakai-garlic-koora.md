@@ -1,7 +1,7 @@
 ---
+title: Bendakai Koora (Garlic)
+date: 2016-09-15 08:45:00 Z
 layout: post
-date: 2016-09-15 08:45
-title: "Bendakai Koora (Garlic)"
 author: Mom Bhamidipati
 category:
 - curry

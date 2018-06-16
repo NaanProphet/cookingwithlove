@@ -1,73 +1,87 @@
-# General Settings
-logo: /assets/svg/dummy-logo.svg
+---
+title: Cookingwithlove
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    comments: 'true'
+logo: "/assets/svg/dummy-logo.svg"
 name: Cooking With Love
-description: A collection of family recipes primarily from South India. Clear-sky web hosting via BitBalloon.
+description: A collection of family recipes primarily from South India. Clear-sky
+  web hosting via BitBalloon.
 site_owner_name: Krishna Bhamidipati
 email: info@withlove.cooking
-favicon: /favicon.ico
+favicon: "/favicon.ico"
 twitter_handler: your_handler
 analytics_code: UA-XXXXXXX-2
 disqus: your_disqus_site
-
-# Social Accounts
 social_networks:
--  { name: facebook, url: 'http://facebook.com' }
--  { name: twitter, url: 'http://twitter.com' }
--  { name: instagram, url: '' }
--  { name: google-plus, url: '' }
--  { name: linkedin, url: '' }
--  { name: skype, url: '' }
--  { name: github, url: '' }
--  { name: codepen, url: '' }
--  { name: stack-overflow, url: '' }
--  { name: dribbble, url: '' }
--  { name: behance, url: '' }
--  { name: pinterest, url: '' }
--  { name: tumblr, url: '' }
--  { name: youtube, url: '' }
--  { name: vimeo, url: '' }
--  { name: vine, url: '' }
--  { name: 500px, url: '' }
--  { name: flickr, url: '' }
--  { name: spotify, url: '' }
--  { name: steam, url: '' }
--  { name: wordpress, url: '' }
--  { name: xing, url: '' }
-
-# Modules Settings
+- name: facebook
+  url: http://facebook.com
+- name: twitter
+  url: http://twitter.com
+- name: instagram
+  url: ''
+- name: google-plus
+  url: ''
+- name: linkedin
+  url: ''
+- name: skype
+  url: ''
+- name: github
+  url: ''
+- name: codepen
+  url: ''
+- name: stack-overflow
+  url: ''
+- name: dribbble
+  url: ''
+- name: behance
+  url: ''
+- name: pinterest
+  url: ''
+- name: tumblr
+  url: ''
+- name: youtube
+  url: ''
+- name: vimeo
+  url: ''
+- name: vine
+  url: ''
+- name: 500px
+  url: ''
+- name: flickr
+  url: ''
+- name: spotify
+  url: ''
+- name: steam
+  url: ''
+- name: wordpress
+  url: ''
+- name: xing
+  url: ''
 show_tags: 1
 show_email: 1
 show_rss: 1
 show_comments: 1
-
-# Defaults
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      comments: "true"
-
-# Serving
-url: ""
-baseurl: ""
-
-# Includes
-include: ["_pages"]
-
-# Outputting
-permalink: /:categories/:title.html
+url: ''
+baseurl: ''
+include:
+- _pages
+permalink: "/:categories/:title.html"
 category_dir: categories
-
-# Pagination
 paginate: 24
 paginate_path: "/all/:num/"
-
-# Conversion
 markdown: kramdown
-
-# Assets Settings
 sass:
   sass_dir: assets/partials
   style: compressed

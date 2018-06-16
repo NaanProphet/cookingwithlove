@@ -1,12 +1,12 @@
 ---
-layout: post
-date: 2016-09-15 08:45
-title: "Dal Patties"
-author: Mom Bhamidipati
-category:
+title: Dal Patties
+date: 2016-09-15 08:45:00 Z
+categories:
 - snacks
 tags:
 - soaker
+layout: post
+author: Mom Bhamidipati
 ---
 
 <img src="png/83967bb0d68e3e0ca956c528c04b6666.png" />

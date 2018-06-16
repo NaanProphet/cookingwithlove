@@ -1,12 +1,12 @@
 ---
-layout: post
-date: 2016-09-15 08:45
-title: "Gongura Pacchadi"
-author: Mom Bhamidipati
-category:
+title: Gongura Pacchadi
+date: 2016-09-15 08:45:00 Z
+categories:
 - chutney
 tags:
 - andhra
+layout: post
+author: Mom Bhamidipati
 ---
 
 <img src="png/422e471a85a9b473a6e7bdb0b01b2ffb.png" />

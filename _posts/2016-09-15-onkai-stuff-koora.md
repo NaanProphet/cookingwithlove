@@ -1,12 +1,12 @@
 ---
-layout: post
-date: 2016-09-15 08:45
-title: "Eggplant Stuff Koora"
-author: Mom Bhamidipati
-category:
+title: Eggplant Stuff Koora
+date: 2016-09-15 08:45:00 Z
+categories:
 - curry
 tags:
 - andhra
+layout: post
+author: Mom Bhamidipati
 ---
 
 <img src="png/c769317da2647831507ca73563aff487.png" />

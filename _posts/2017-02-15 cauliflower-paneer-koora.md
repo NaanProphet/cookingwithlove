@@ -1,7 +1,7 @@
 ---
+title: Cauliflower Paneer Koora
+date: 2016-09-15 08:45:00 Z
 layout: post
-date: 2016-09-15 08:45
-title: "Cauliflower Paneer Koora"
 author: Mom Bhamidipati
 category:
 - curry

@@ -1,7 +1,7 @@
 ---
+title: Anapkai & Novulu Koora
+date: 2016-09-15 08:45:00 Z
 layout: post
-date: 2016-09-15 08:45
-title: "Anapkai & Novulu Koora"
 author: Mom Bhamidipati
 category:
 - curry

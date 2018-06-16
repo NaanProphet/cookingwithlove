@@ -1,12 +1,12 @@
 ---
-layout: post
-date: 2016-09-15 08:45
-title: "Gongura Pappu"
-author: Mom Bhamidipati
-category:
+title: Gongura Pappu
+date: 2016-09-15 08:45:00 Z
+categories:
 - dal
 tags:
 - andhra
+layout: post
+author: Mom Bhamidipati
 ---
 
 <img src="png/87cbb4a6aeeaf27c0c9423f29678fc2d.png" />
