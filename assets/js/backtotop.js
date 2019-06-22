@@ -9,6 +9,7 @@
 * 
 * Version: 1.0, 18/11/2013
 * Version: 1.1, 17/12/2013
+* Version: 1.2, 22/11/2017
 */
 
 $(document).ready( function() {
@@ -17,14 +18,6 @@ $(document).ready( function() {
 			
 			var defaultSettings = { backgroundColor: '#000', width: '40px', height: '40px', opacity: '0.2', opacityOnHover: '0.4', positionToAppear: '300' };
 			var settings = $.extend({}, defaultSettings, userSettings);
-			
-			var is_chrome = window.chrome;
-			var is_safari = navigator.userAgent.indexOf('Safari') > -1;
-
-			if (is_chrome || is_safari)
-				var el = $('body');
-			else
-				var el = $('html');
 
 			var backToTopStyle = {
 				'position' : 'fixed',
@@ -46,6 +39,11 @@ $(document).ready( function() {
 
 			var backToTopButton = $('.backtotop');
 
+			var el = $('html, body');
+            if (/Edge\/\d./i.test(navigator.userAgent)){
+                var el = $('body');
+            }
+
 			function getScrollPos() {
 				scrollPos = $(document).scrollTop();
 				if (scrollPos > settings.positionToAppear)
@@ -64,7 +62,7 @@ $(document).ready( function() {
 				click: function(e) {
 					var elPos = el.scrollTop();
 				
-					if (elPos != 0)
+					if (elPos !== 0)
 					  el.animate({scrollTop: 0}, 300);
 					  
 					e.preventDefault();
