@@ -1,7 +1,7 @@
 ---
 title: Aloo Methi Paratha
 date: 2016-09-15 08:45:00 Z
-categories:
+category:
 - roti
 layout: post
 author: Mom Bhamidipati

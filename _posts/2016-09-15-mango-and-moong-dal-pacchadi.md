@@ -1,7 +1,7 @@
 ---
 title: "(Mango) & Moong Dal Pacchadi"
 date: 2016-09-15 08:45:00 Z
-categories:
+category:
 - chutney
 tags:
 - tangy

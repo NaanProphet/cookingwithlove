@@ -1,7 +1,7 @@
 ---
 title: Bhel Bean Salad
 date: 2016-09-15 08:45:00 Z
-categories:
+category:
 - snacks
 tags:
 - soaker

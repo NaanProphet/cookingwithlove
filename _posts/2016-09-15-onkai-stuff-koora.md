@@ -1,7 +1,7 @@
 ---
 title: Eggplant Stuff Koora
 date: 2016-09-15 08:45:00 Z
-categories:
+category:
 - curry
 tags:
 - andhra

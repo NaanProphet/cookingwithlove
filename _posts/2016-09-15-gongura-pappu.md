@@ -1,7 +1,7 @@
 ---
 title: Gongura Pappu
 date: 2016-09-15 08:45:00 Z
-categories:
+category:
 - dal
 tags:
 - andhra
