@@ -9,7 +9,7 @@ tags:
 - andhra
 ---
 
-<img src="png/c769317da2647831507ca73563aff487.png" />
+![](/assets/img/c769317da2647831507ca73563aff487.png)
 
 Prep time: 20 min
 Cook time: 20 min

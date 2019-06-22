@@ -9,7 +9,7 @@ layout: post
 author: Mom Bhamidipati
 ---
 
-<img src="png/c769317da2647831507ca73563aff487.png" />
+![](/assets/img/koora-eggplant-stuff.jpg)
 
 Prep time: 15 min
 Cook time: 15 min

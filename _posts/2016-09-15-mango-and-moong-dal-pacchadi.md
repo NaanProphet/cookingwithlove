@@ -10,7 +10,7 @@ layout: post
 author: Mom Bhamidipati
 ---
 
-<img src="png/bd30007f92eef32b42a769f9cc5fb72e.png" />
+![](/assets/img/bd30007f92eef32b42a769f9cc5fb72e.png)
 
 Prep time: 2 hr
 Cook time: 15 min

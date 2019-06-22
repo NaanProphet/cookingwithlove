@@ -9,7 +9,7 @@ layout: post
 author: Mom Bhamidipati
 ---
 
-<img src="png/87cbb4a6aeeaf27c0c9423f29678fc2d.png" />
+![](/assets/img/87cbb4a6aeeaf27c0c9423f29678fc2d.png)
 
 Prep time:
 Cook time:

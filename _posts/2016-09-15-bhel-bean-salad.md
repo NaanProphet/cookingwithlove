@@ -10,7 +10,7 @@ layout: post
 author: Mom Bhamidipati
 ---
 
-<img src="png/83967bb0d68e3e0ca956c528c04b6666.png" />
+![](/assets/img/bean-bhel-salad.jpg)
 
 Prep time:
 Cook time:

@@ -8,7 +8,7 @@ category:
 tags: 
 ---
 
-<img src="png/.png" />
+
 
 Prep time: 
 Cook time: 
