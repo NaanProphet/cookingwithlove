@@ -50,7 +50,7 @@ defaults:
       comments: "true"
 
 # Serving
-url: ""
+url: "https://cookingwithlove.netlify.com"
 baseurl: ""
 
 # Includes
