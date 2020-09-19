@@ -13,9 +13,18 @@
     "lint-demo": "yarn workspace demo lint",
     "format-demo": "yarn workspace demo format",
     "serve": "yarn workspace demo build && yarn workspace demo serve",
-    "optimize-images": "yarn workspace @marinda/gatsby-theme-recipes optimize && yarn workspace demo optimize"
+    "optimize-images": "yarn workspace @marinda/gatsby-theme-recipes optimize && yarn workspace demo optimize",
+    "start": "gatsby develop",
+    "clean": "gatsby clean",
+    "build": "gatsby build"
   },
   "workspaces": [
     "packages/*"
-  ]
+  ],
+  "dependencies": {
+    "@marinda/gatsby-theme-recipes": "^1.2.19",
+    "gatsby": "^2.24.63",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
 }
