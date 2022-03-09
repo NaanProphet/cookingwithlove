@@ -1,8 +1,0 @@
-@font-face {font-family: "Zapfino"; src:"Zapfino.ttf"; }
-#title { font:Lucida Grande; font-size:x-large; font-weight:normal; color:#127DBC; } /* iWebkit version, based on div */
-blockquote { font-family: "Zapfino"; margin:0em; padding-bottom:2em ;}
-h3 { font:Lucida Grande; font-size:medium; font-weight:bold; }
-dt { font:Lucida Grande; font-size:medium; font-weight:bold; float:left; }
-ul { list-style-type:circle; }
-/* img { float:right; margin:10px; width:238px; height:210px; } */ /* for Picturesque output */
-/*img.recipe { float:right; margin:10px; width:240px; height:180px; } /* for 4:3 input, like 640x480 */

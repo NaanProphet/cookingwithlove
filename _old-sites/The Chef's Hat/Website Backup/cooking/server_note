@@ -1,3 +1,0 @@
-SERVER NOTE
-
-If you are making a link of the actual folder into the WebServer Directory, you must make a symlink in Terminal. If you simply make an Alias in Finder, then the folder won't be found.

@@ -1,0 +1,3 @@
+### local server
+
+`hugo server`

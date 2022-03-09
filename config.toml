@@ -1,0 +1,8 @@
+baseURL = "https://recipesbook.netlify.com/"
+languageCode = "en-us"
+title = "Krishna's Recipe Book"
+theme = "recipes"
+
+[params]
+  author = "Krishna Bhamidipati"
+  description = "Krishna's Recipe Book"
