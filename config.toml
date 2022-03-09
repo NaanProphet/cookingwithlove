@@ -1,4 +1,4 @@
-baseURL = "https://recipesbook.netlify.com/"
+baseURL = "https://krishna.recipes/"
 languageCode = "en-us"
 title = "Krishna's Recipe Book"
 theme = "recipes"
